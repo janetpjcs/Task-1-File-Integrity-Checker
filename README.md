@@ -53,6 +53,26 @@ This project is created as part of a **Cybersecurity / Ethical Hacking Internshi
 
 ---
 
+# Task-1: File Integrity Checker
+
+## Project Structure
+
+```
+codtech-cybersecurity-ethicalhacking-internship/
+└── Task-1_File-Integrity-Checker/
+    ├── file_integrity_checker.py
+    ├── hashes.json
+    ├── integrity_log.txt
+    ├── README.md
+    ├── testfiles/
+    │   ├── file1.txt
+    │   ├── file2.txt
+    │   ├── file3.txt
+    │   └── file4.txt
+    └── screenshots/
+        └── output.png
+```
+
 ## ▶️ How to Run the Project
 
 ### 1️⃣  Create Virtual Environment
