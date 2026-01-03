@@ -85,4 +85,18 @@ codtech-cybersecurity-ethicalhacking-internship/
         View results in the output window    
 ###  🖼️ Screenshots
 
-Screenshots showing the program execution and output are stored in the screenshots/ folder.    
+Screenshots showing the program execution and output are stored in the screenshots/ folder. 
+## Screenshots
+
+### 1. GUI Screenshot
+![GUI Screenshot](screenshots/gui.png)
+
+### 2. Directory Selection Screenshot
+![Directory Selection Screenshot](screenshots/directoryselection.png)
+
+### 3. Program Output Screenshot
+![Output 1 Screenshot](screenshots/output1.png)
+
+### 4. Modification Detection Screenshot
+![Output 2 After Modification Screenshot](screenshots/output2aftermodification.png)
+
