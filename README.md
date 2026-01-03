@@ -32,24 +32,6 @@ This project is created as part of a **Cybersecurity / Ethical Hacking Internshi
 - JSON
 - OS module
 
----
-
-## 📁 Project Structure
-
-Task-1-File-Integrity-Checker/
-│
-├── file_integrity_checker.py     # Main Python program
-├── hashes.json              # Stores file hash values
-├── integrity_log.txt            # Logs detected changes
-├── README.md              # Project documentation
-│
-├── testfiles/ # Sample files for testing
-│ ├── file1.txt
-│ └── file2.txt
-│
-└── screenshots/ # Screenshots of execution
-└── output.png
-
 
 > ⚠️ **Note:** The virtual environment folder (`venv/`) is intentionally **NOT uploaded** to GitHub.
 
