@@ -70,7 +70,11 @@ codtech-cybersecurity-ethicalhacking-internship/
     │   ├── file3.txt
     │   └── file4.txt
     └── screenshots/
-        └── output.png
+        ├── gui.png
+        ├── directoryselection.png
+        ├── Output1.png
+        └── Output2aftermodification.png
+
 ```
 
 ## ▶️ How to Run the Project
