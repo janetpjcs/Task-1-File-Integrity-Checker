@@ -1,0 +1,27 @@
+
+---
+
+# 🔹 STEP 5: PUSH TO GITHUB
+
+```bash
+git add .
+git commit -m "Task 1: Professional File Integrity Checker with logging and enhancements"
+git push origin main
+[2026-01-01 21:04:07] [NEW FILE] D:\codtech-cybersecurity-ethicalhacking-internship\Task-1_File-Integrity-Checker\testfiles\file1.txt
+[2026-01-01 21:04:07] [NEW FILE] D:\codtech-cybersecurity-ethicalhacking-internship\Task-1_File-Integrity-Checker\testfiles\file2.txt
+[2026-01-01 21:18:14] [MODIFIED] D:\codtech-cybersecurity-ethicalhacking-internship\Task-1_File-Integrity-Checker\testfiles\file1.txt
+[2026-01-01 21:19:14] [MODIFIED] D:\codtech-cybersecurity-ethicalhacking-internship\Task-1_File-Integrity-Checker\testfiles\file1.txt
+[2026-01-01 21:19:14] [NEW FILE] D:\codtech-cybersecurity-ethicalhacking-internship\Task-1_File-Integrity-Checker\testfiles\file3.txt
+[2026-01-03 10:41:14] [MODIFIED] D:\codtech-cybersecurity-ethicalhacking-internship\Task-1_File-Integrity-Checker\testfiles\file1.txt
+[2026-01-03 10:41:14] [MODIFIED] D:\codtech-cybersecurity-ethicalhacking-internship\Task-1_File-Integrity-Checker\testfiles\file2.txt
+[2026-01-03 10:41:14] [DELETED] D:\codtech-cybersecurity-ethicalhacking-internship\Task-1_File-Integrity-Checker\testfiles\file3.txt
+[2026-01-03 10:42:51] [MODIFIED] D:\codtech-cybersecurity-ethicalhacking-internship\Task-1_File-Integrity-Checker\testfiles\file1.txt
+[2026-01-03 10:42:51] [NEW FILE] D:\codtech-cybersecurity-ethicalhacking-internship\Task-1_File-Integrity-Checker\testfiles\file3.txt
+[2026-01-03 11:08:21] [NEW FILE] D:/codtech-cybersecurity-ethicalhacking-internship/Task-1_File-Integrity-Checker/testfiles\file1.txt
+[2026-01-03 11:08:21] [NEW FILE] D:/codtech-cybersecurity-ethicalhacking-internship/Task-1_File-Integrity-Checker/testfiles\file2.txt
+[2026-01-03 11:08:21] [NEW FILE] D:/codtech-cybersecurity-ethicalhacking-internship/Task-1_File-Integrity-Checker/testfiles\file3.txt
+[2026-01-03 11:08:21] [DELETED] D:\codtech-cybersecurity-ethicalhacking-internship\Task-1_File-Integrity-Checker\testfiles\file1.txt
+[2026-01-03 11:08:21] [DELETED] D:\codtech-cybersecurity-ethicalhacking-internship\Task-1_File-Integrity-Checker\testfiles\file2.txt
+[2026-01-03 11:08:21] [DELETED] D:\codtech-cybersecurity-ethicalhacking-internship\Task-1_File-Integrity-Checker\testfiles\file3.txt
+[2026-01-03 14:06:41] [MODIFIED] D:/codtech-cybersecurity-ethicalhacking-internship/Task-1_File-Integrity-Checker/testfiles\file1.txt
+[2026-01-03 14:06:41] [NEW FILE] D:/codtech-cybersecurity-ethicalhacking-internship/Task-1_File-Integrity-Checker/testfiles\file4.txt
